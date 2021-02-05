@@ -14,10 +14,13 @@ export default class Header extends Component{
                     <li>
                         <a href="#">Gallery</a>
                     </li>
+                    <li>
+                        <a href="#">Book</a>
+                    </li>
                 </ul>
                 <div className="title">
                 <h2>
-                    Sarah's Picnic Service
+                    Picnic Service
                 </h2>
                 </div>
             </div>
